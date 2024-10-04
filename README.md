@@ -13,8 +13,9 @@ Before we dive deep into the awesome world of data science and deep learning, le
 - **Python Installed** 🐍✔️ (Gotta love those packages! 🍕🍔) 
 - **VS Code** or any other IDE 🔧 (Yes, you need an editor for this magic show! 🎩✨)
 - **Anaconda Navigator** 🐍 (No, it doesn’t involve real snakes—unless you’re into that kind of thing! 🐍😂)
-- **Jupyter Notebooks** 📒 (Or you can ride the cloud 🏄‍♂️ with Google Colab 🌐)  
-  For long-term use, I suggest using Google Colab—because who doesn’t love free cloud magic? ☁️✨
+- **Jupyter Notebooks** 📒 (Or you can ride the cloud 🏄‍♂️ with Google Colab 🌐)
+  
+ ## Note=For long-term use, I suggest using Google Collab ☁️✨
 
 ---
 
