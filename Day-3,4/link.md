@@ -2,7 +2,7 @@
 
 Welcome to **Day 3** of our series! 🎉  
 Today, we’re continuing with the **Pandas** 🐼 library from Day 2 and diving into some of the most important ML libraries like **Matplotlib** 📊, **Seaborn** 🎨, and **NumPy** 🔢. Let’s make some magic happen! 💻✨
-
+---
 > # Note: Don’t be overwhelmed by the number of videos! They're mostly short—under 10 minutes ⏰, so you’ll breeze through them! 🚀
 
 ---
@@ -51,7 +51,19 @@ Still stuck on Matplotlib? Don’t worry, I got you covered! 🤓📈
 - [Matplotlib Masterclass](https://youtu.be/sDgwspj8aBk?si=s-6RgGvQ593tSfF0)
 
 ---
+> # Note
+> ## 📅 Day 3: Visualizations & Data Manipulation 🎨
+>- **📊 Seaborn**: Create beautiful, high-level statistical plots with ease.
+>- **🧮 Pandas**: Your best friend for data manipulation.
+>- **📈 Matplotlib**: The go-to for all your plotting needs.
+>
+>---
+>
+>## 📅 Day 4: NumPy Powerhouse 💥
+>- **🔢 NumPy**: The ultimate library for numerical computations.
+>
+>
+---
 
-Stay tuned for **Day 4**, where things get even more exciting! 🚀💡
 
 Happy coding! 💻✨
