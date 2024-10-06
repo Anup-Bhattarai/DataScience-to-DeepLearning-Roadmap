@@ -42,7 +42,7 @@ Without preprocessing, even the most powerful algorithms may perform poorly. Itâ
 ---
 
 ## 1. Introduction to Data Preprocessing
-[Watch Full Playlist](https://www.youtube.com/watch?v=JL_grPUnXzY&list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV)
+[Watch Here](https://www.youtube.com/watch?v=JL_grPUnXzY&list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV)
 
 ---
 
@@ -72,8 +72,8 @@ Without preprocessing, even the most powerful algorithms may perform poorly. Itâ
 ---
 
 ## 7. Label Encoding
-[Watch Here](https://youtu.be/NlfLivr156Y)  
-[Advanced Label Encoding](https://youtu.be/lsAqyzln-5g)
+[Part-1](https://youtu.be/NlfLivr156Y)  
+[Part-2](https://youtu.be/lsAqyzln-5g)
 
 ---
 
