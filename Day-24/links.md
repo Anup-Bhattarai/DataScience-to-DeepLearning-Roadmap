@@ -1,3 +1,20 @@
+# 🚨 **YOU ARE REQUIRED TO DO AT LEAST ONE PROJECT DURING DAY 24-26** 🚨
+
+## Project Ideas:
+### Supervised Learning:
+1. 🏡 **House Price Prediction** (Regression)
+2. ❤️ **Heart Disease Prediction** (Classification)
+3. 🚗 **Car Price Prediction** (Regression)
+4. 🍎 **Diabetes Prediction** (Classification)
+5. 🩺 **Breast Cancer Detection** (Classification)
+6. 📉 **Credit Card Fraud Detection** (Anomaly Detection)
+
+### Unsupervised Learning:
+1. 🛒 **Customer Segmentation using Clustering** (K-Means, Hierarchical Clustering)
+2. 🔍 **Spam Email Detection** (Anomaly Detection)
+
+---
+
 # 🌟 **Day 24: Data Science to Deep Learning Series** 🌟
 
 Welcome to **Day 24**, data enthusiasts! 🎉  
