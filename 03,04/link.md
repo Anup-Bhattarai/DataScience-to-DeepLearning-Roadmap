@@ -1,13 +1,13 @@
 # 🌟 Day 3,4: Data Science to Deep Learning Series 🌟
 
 Welcome to **Day 3** of our series! 🎉  
-Today, we’re continuing with the **Pandas** 🐼 library from Day 2 and diving into some of the most important ML libraries like **Matplotlib** 📊, **Seaborn** 🎨, and **NumPy** 🔢. Let’s make some magic happen! 💻✨
+Today, we’re continuing with the **Pandas** 🐼 library from Day 2 and diving into some of the most important ML libraries like **Matplotlib** 📊,**Seaborn** 🎨, and **NumPy** 🔢. Let’s make some magic happen! 💻✨
 
 ---
 
 > # Note: Don’t be overwhelmed by the number of videos! They're mostly short—under 10 minutes ⏰, so you’ll breeze through them! 🚀
 
----
+-----
 
 ## 🐼 Pandas Tutorials (Continued from Day 2)
 1. [Pandas Tutorial 1](https://youtu.be/F6kmIpWWEdU?si=_QkpqVYU4ZKvcotU)  
