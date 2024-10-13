@@ -42,7 +42,7 @@ Without preprocessing, even the most powerful algorithms may perform poorly. Itâ
 ---
 
 ## 1. Introduction to Data Preprocessing
-[Watch here](https://youtu.be/3imSHVySLRc?si=eCsbhTLZW9tNfq4C)
+[Watch here](https://youtu.be/tDu_KIlXaB0?si=8s5cVkmZjyebDavH)
 
 ---
 
