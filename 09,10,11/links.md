@@ -3,7 +3,7 @@
 Welcome to **Day 9, 10, and 11** of our series! 🎉  
 For the next three days, we’ll focus on the essential **Mathematics for Machine Learning** 📐. Mastering these concepts is key to understanding how machine learning algorithms work at a deeper level. We’ll cover **Linear Algebra**, **Statistics**, and **Probability**—the building blocks of most machine learning techniques. Let’s dive in! 💡📊✨
 
----
+----
 
 ## ✨ Why is Mathematics Important for Machine Learning? 🧐
 

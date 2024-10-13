@@ -3,7 +3,7 @@
 Welcome to **Day 5** of our series! 🎉  
 Today, we’re diving into the heart of data preparation: **Data Preprocessing** 🧹. Before we can train models, we need to clean, transform, and prepare our data for analysis. We’ll explore key concepts like **types of variables**, **encoding**, **scaling**, and more! Let’s get our data ready to shine! 🌟💻✨
 
----
+----
 
 ## ✨ Why is Data Preprocessing Important? 🧐
 

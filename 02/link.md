@@ -2,6 +2,7 @@
 
 Welcome to Day 2! 🎉 Today, we're exploring essential Python libraries and techniques to tackle data science challenges. Let’s make it exciting! 💻✨ 
 
+
 ### 📚 Python Libraries:
 1. **🐍 [Introduction to Python Libraries - Video 1](https://youtu.be/nDa75spDmeE?si=toBo83aVH0ERkqwE)** - Start your journey with the basics! 
 2. **📖 [Introduction to Python Libraries - Video 2](https://youtu.be/KOmGPNS-YM8?si=26aoTp5_a9-BZZKL)** - Dive deeper into the world of Python libraries!

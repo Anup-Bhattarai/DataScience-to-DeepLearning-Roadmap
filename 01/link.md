@@ -2,6 +2,7 @@
 
 Welcome to Day 1 of our journey! 🌟 Today, we’re diving into the fascinating world of Machine Learning! 🤖✨ 
 
+
 ### 📹 Video Resources to Kickstart Your Journey:
 1. **👋 [Introduction to Machine Learning](https://youtu.be/ZftI2fEz0Fw?si=BJKHacN0jmtM3lBz)** - Get ready to explore the ML universe! 🌌
 2. **🤖 [AI vs ML vs DL](https://youtu.be/1v3_AQ26jZ0?si=P5UfM-683ygnLy6m)** - Let’s settle the debate once and for all! 🥊
