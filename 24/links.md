@@ -27,28 +27,51 @@ Today, we’ll dive into building **Web Applications using Streamlit**. This pow
 1. [Web App using Streamlit](#web-app-using-streamlit)
 2. [Project 1](#project-1)
 3. [Project 2](#project-2)
+4. [Project 3](#project-3)
 
 ---
 
 ## 1. Web App using Streamlit  
-Streamlit is an open-source app framework that allows you to turn your data scripts into shareable web apps quickly. It’s user-friendly and integrates seamlessly with Python data libraries. 💻
+Streamlit is an open-source app framework that allows you to turn your data scripts into shareable web apps quickly. It’s user-friendly and integrates seamlessly with Python data libraries. Here’s why I prefer Streamlit for ML web deployment:
 
-▶️ **[Watch: Web App using Streamlit](https://youtu.be/SBEpTtAy-oU?si=IX4U2FAmp4k6O5Us)**
+### Why I Prefer Streamlit
+- **Ease of Use**: Streamlit is intuitive and requires minimal coding, allowing data scientists to focus on modeling rather than web development.
+- **Rapid Prototyping**: Quickly build and iterate on prototypes, seeing real-time changes as you develop.
+- **Seamless Integration**: It works well with popular data science libraries like Pandas, NumPy, and Matplotlib.
+- **Interactivity**: Create interactive visualizations and user interfaces with just a few lines of code.
+- **Flexible Deployment**: Easily share your app via Streamlit Sharing or other platforms.
+
+### Alternatives to Streamlit
+If you’re looking for different options, consider:
+- **Flask**: A lightweight framework for custom web applications but requires more setup.
+- **Django**: A robust framework for larger applications, good for complex needs.
+- **Dash**: Designed for analytical web apps, great for visualizations.
+- **Gradio**: Focuses on creating user interfaces for machine learning models quickly.
+- **Voila**: Converts Jupyter notebooks into interactive web apps.
+
+💻 **Watch:** [Web App using Streamlit](https://youtu.be/SBEpTtAy-oU?si=IX4U2FAmp4k6O5Us)
 
 ---
 
 ## 2. Project 1  
-This project showcases how to implement a web app using Streamlit to visualize and analyze data effectively. It’s a great way to apply what you've learned! 📈
 
-▶️ **[Watch: Project 1](https://youtu.be/QzTqFYTBh_I?si=0YRgLLJbicmMvhsq)**
+
+▶️ **[Watch: Project 1](https://youtu.be/yVFPf3_gvQI?si=3-4iBfxnRXhNhKJD)**
 
 ---
 
 ## 3. Project 2  
-In this live session, you’ll see another exciting project using Streamlit for web application development. This project will provide hands-on experience and enhance your skills further. 🌐  
+
 **Note**: You can use Streamlit for your web app in Project 2!  
 
-▶️ **[Watch: Project 2](https://www.youtube.com/live/p_tpQSY1aTs?si=L4qJ5e_ms0syjo1z)**
+▶️ **[Watch: Project 2](https://youtu.be/QzTqFYTBh_I?si=0YRgLLJbicmMvhsq)**
+
+---
+
+## 4. Project 3  
+
+
+▶️ **[Watch: Project 3](https://www.youtube.com/live/p_tpQSY1aTs?si=L4qJ5e_ms0syjo1z)**
 
 ---
 
